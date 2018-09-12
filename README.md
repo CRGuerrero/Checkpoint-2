@@ -1,6 +1,6 @@
 # Checkpoint-2
 
-<h1>Design Process Strengths and Weaknesses
+<h1>Design Process Strengths and Weaknesses<h1>
 
 The design process is typically a 6 part process that involves a lot of strategy and problem solving. The following is how I would rate my current experience with each step of the design process, and why I believe that to be the case. 
 
